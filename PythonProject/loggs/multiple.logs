@@ -1,0 +1,6 @@
+2025-08-20 15:44:39,616 - multilog1 - INFO - this is from multilog1
+2025-08-20 15:44:39,616 - multilog2 - CRITICAL - critical error
+2025-08-20 15:44:39,616 - multilog2 - ERROR - this from multilog2
+2025-08-20 15:44:39,616 - multilog3 - INFO - hello world
+2025-08-20 15:44:39,616 - multilog3 - CRITICAL - critical error
+2025-08-20 15:44:39,616 - multilog3 - ERROR - this from multilog3

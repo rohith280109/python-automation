@@ -1,0 +1,23 @@
+users:
+  - username: "practice"
+    password: "SuperSecretPassword!"
+  - username: "practivsj"
+    password: "psword2"
+  - username: "practice"
+    password: "evjbeb"
+
+locators:
+  username_input: "username"
+  password_input: "password"
+  login_button: "//button[text()='Login']"
+  logout_button: "//*[@id='core']/div/div/a"
+
+messages:
+  success: "You logged into a secure area!"
+  invalid_username: "username is invalid!"
+  invalid_password: "password is invalid!"
+
+url: "https://practice.expandtesting.com/login"
+
+
+#{'users': [{'username': 'practice', 'password': 'SuperSecretPassword!'}, {'username': 'jsncnwjnc', 'password': 'psword2'}, {'username': 'practice', 'password': 'evjbeb'}], 'locators': {'login_button': "//button[text()='Login']", 'logout_button': "//*[@id='core']/div/div/a"}, 'messages': {'success': 'You logged into a secure area!', 'invalid_username': 'username is invalid!', 'invalid_password': 'password is invalid!'}, 'url': 'https://practice.expandtesting.com/login'}
