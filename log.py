@@ -1,1 +1,2 @@
 print("log")
+print("rise")
