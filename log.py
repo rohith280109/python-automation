@@ -1,3 +1,5 @@
 print("log")
 print("rise")
 print("jsbdk")
+print("smvlksl")
+print("sdvksdm")
